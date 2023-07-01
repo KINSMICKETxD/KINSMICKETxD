@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @AzizGharsall
 - 👀 I’m interested in back end development
-- 🌱 I’m currently learning c programming and getting confortable with Kali Linux
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning spring boot through projects
+- 💞️ I’m looking to collaborate on web applications.
 
 <!---
 KINSMICKETxD/KINSMICKETxD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
